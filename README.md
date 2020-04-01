@@ -1,5 +1,5 @@
 # DirVisit
-This library was created as a result of a StackOverflow Query about how to open a directory. The question can be found here: [Android open an external directory using an intent](https://stackoverflow.com/questions/57670811/android-open-an-external-directory-using-an-intent/57670970#57670970)
+This library was created as a result of a StackOverflow Query about how to open a directory. The question can be found here: [Android open an external directory using an intent](https://stackoverflow.com/questions/57670811/android-open-an-external-directory-using-an-intent/57670970)
 
 It is meant to be the tool which allows you to do a variety of tasks associated with navigating the local and external storage of any Android device. Specifically you can:
 - Open any directory on the device using the directory's file path.
