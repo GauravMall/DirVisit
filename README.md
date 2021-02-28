@@ -16,7 +16,7 @@ Development is on-going. I would say I'm at an intermediate stage (there are a l
 # What you can do?
 Once this library is out, it is obvious that we need to do **testing**. Testing, testing, testing! A rigorous testing procedure on a variety of android devices will allow us to detect bugs, version-specific issues and obviously if there is a device that doesn't support this library.
 
-Yes, I will be running tests on my own. Trying DirVisit on my smartphone, and using official test labs. But you WILL help us out, if you test them out on any of your devices. Maybe there's a phone that you have and it is a little...eccentric. You could develop an app with this library, deploy it and report back whether it works or not.
+Yes, I will be running tests on my own. Trying DirVisit on my smartphone, and using official test labs. But you WILL help us out, if you test it on any of your devices. Maybe there's a phone that you have and it is a little...eccentric. You could develop an app with this library, deploy it and report back whether it works or not.
 
 # Donating
 As of now, not even a beta version has been ruled out, so donating is out of the game. This is intented to be free and open-source once live. But I'll put a donate button right here when I think that I've made a product that I'm proud of. And you will be helping me out a bunch if you decide to donate. So stay tuned!
